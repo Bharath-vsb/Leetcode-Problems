@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -31,10 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -50,4 +53,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
