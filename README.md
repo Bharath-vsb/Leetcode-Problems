@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -92,12 +93,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
