@@ -11,7 +11,6 @@ class Solution {
                 sb.append(i);
             }
         }
-
         sb2.append(sb);
         sb.reverse();
 
