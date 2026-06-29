@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0414-third-maximum-number](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0414-third-maximum-number](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
