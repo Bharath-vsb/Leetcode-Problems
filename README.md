@@ -144,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
