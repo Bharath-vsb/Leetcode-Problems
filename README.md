@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0046-permutations](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
+| [0075-sort-colors](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 ## Divide and Conquer
