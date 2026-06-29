@@ -149,4 +149,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0595-big-countries](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
