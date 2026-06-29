@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -137,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
