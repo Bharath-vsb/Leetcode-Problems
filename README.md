@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0414-third-maximum-number](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1470-shuffle-the-array/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
