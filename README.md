@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Sliding Window
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +170,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
