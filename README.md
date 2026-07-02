@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0046-permutations](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
