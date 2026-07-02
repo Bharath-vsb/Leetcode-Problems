@@ -8,15 +8,13 @@ class Solution {
         }
         
         for(int n : nums2) {
-            s2.add(n);
+            if(s1.contains(n)) s2.add(n);
         }
-        
-        s1.retainAll(s2);
-        
-        int[] result = new int[s1.size()];
+
+        int[] result = new int[s2.size()];
         int i = 0;
         
-        for(int n : s1) {
+        for(int n : s2) {
             result[i++] = n;
         }
         
