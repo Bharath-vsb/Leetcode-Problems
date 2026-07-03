@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0228-summary-ranges](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0228-summary-ranges/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
