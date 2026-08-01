@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -207,4 +208,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
