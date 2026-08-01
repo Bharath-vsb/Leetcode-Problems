@@ -212,8 +212,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
