@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
+| [0461-hamming-distance](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0461-hamming-distance/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
