@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
