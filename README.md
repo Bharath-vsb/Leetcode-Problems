@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -261,4 +264,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
