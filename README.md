@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
