@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0228-summary-ranges](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0260-single-number-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0260-single-number-iii/) | Medium |
 | [0401-binary-watch](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0461-hamming-distance/) | Easy |
 ## Two Pointers
