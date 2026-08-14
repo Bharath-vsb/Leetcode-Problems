@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -32,11 +33,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
