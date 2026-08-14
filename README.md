@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
