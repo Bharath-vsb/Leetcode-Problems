@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0060-permutation-sequence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0069-sqrtx](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0060-permutation-sequence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Enumeration
