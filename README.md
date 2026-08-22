@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
