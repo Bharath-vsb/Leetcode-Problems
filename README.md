@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
