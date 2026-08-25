@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1470-shuffle-the-array/) | Easy |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0401-binary-watch](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0260-single-number-iii/) | Medium |
 | [0401-binary-watch](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0461-hamming-distance/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
