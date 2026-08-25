@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0667-beautiful-arrangement-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1053-previous-permutation-with-one-swap](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0069-sqrtx](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0667-beautiful-arrangement-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
