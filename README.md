@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-count-operations-to-obtain-zero](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Database
