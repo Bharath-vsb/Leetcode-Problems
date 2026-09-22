@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0072-edit-distance/) | Medium |
+| [1668-maximum-repeating-substring](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,5 +337,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->
