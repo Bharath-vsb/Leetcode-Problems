@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1053-previous-permutation-with-one-swap](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -339,4 +342,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-string-matching-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
