@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0260-single-number-iii/) | Medium |
+| [0389-find-the-difference](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0461-hamming-distance/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
