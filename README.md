@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0667-beautiful-arrangement-ii](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0667-beautiful-arrangement-ii/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0912-sort-an-array](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1053-previous-permutation-with-one-swap](https://github.com/Bharath-vsb/Leetcode-Problems/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
